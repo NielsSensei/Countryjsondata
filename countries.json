@@ -1,0 +1,211 @@
+{
+    "Countries": [
+        {
+            "id": 1,
+            "name": "Belgium",
+            "nationalholiday": "2019-07-21",
+            "surface": 30528,
+            "flag": "https://images.ecosia.org/rMYK9XaecJ7rz1UAGygCWP90laE=/0x390/smart/http%3A%2F%2Fwww.wpmap.org%2Fwp-content%2Fuploads%2F2015%2F12%2FBelgium-Flag-1.gif",
+            "beenthere": true,
+			"children": 0
+        },		
+		{
+            "id": 2,
+            "name": "Venezuela",
+            "nationalholiday": "2019-07-05",
+            "surface": 912050,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/188px-Flag_of_Venezuela.svg.png",
+            "beenthere": false,
+			"children": 2
+        },    
+		{
+            "id": 3,
+            "name": "United States",
+            "nationalholiday": "2019-07-04",
+            "surface": 9826675,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/195px-Flag_of_the_United_States.svg.png",
+            "beenthere": false,
+			"children": 1
+        },	
+		{	
+            "id": 4,
+            "name": "Germany",
+            "nationalholiday": "2019-10-03",
+            "surface": 357121,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/195px-Flag_of_Germany.svg.png",
+            "beenthere": true,
+			"children": 1
+        },			
+		{	
+            "id": 5,
+            "name": "France",
+            "nationalholiday": "2019-07-14",
+            "surface": 551500,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/188px-Flag_of_France.svg.png",
+            "beenthere": true,
+			"children": 1
+        },		
+		{	
+            "id": 6,
+            "name": "Greece",
+            "nationalholiday": "2019-03-25",
+            "surface": 131957,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/188px-Flag_of_Greece.svg.png",
+            "beenthere": true,
+			"children": 1
+        },	
+		{	
+            "id": 7,
+            "name": "Italy",
+            "nationalholiday": "2019-06-02",
+            "surface": 301339,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/180px-Flag_of_Italy.svg.png",
+            "beenthere": true,
+			"children": 1
+        },		
+		{	
+            "id": 8,
+            "name": "Japan",
+            "nationalholiday": "2019-05-04",
+            "surface": 377930,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/180px-Flag_of_Japan.svg.png",
+            "beenthere": false,
+			"children": 0
+        },		
+		{	
+            "id": 9,
+            "name": "Luxembourg",
+            "nationalholiday": "2019-06-23",
+            "surface": 2586,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/183px-Flag_of_Luxembourg.svg.png",
+            "beenthere": true,
+			"children": 0
+        },		
+		{	
+            "id": 10,
+            "name": "The Netherlands",
+            "nationalholiday": "2019-04-27",
+            "surface": 41543,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/188px-Flag_of_the_Netherlands.svg.png",
+            "beenthere": true,
+			"children": 0
+        },		
+		{	
+            "id": 11,
+            "name": "Austria",
+            "nationalholiday": "2019-10-26",
+            "surface": 83871,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/188px-Flag_of_Austria.svg.png",
+            "beenthere": true,
+			"children": 1
+        },	
+		{	
+            "id": 12,
+            "name": "Slovenia",
+            "nationalholiday": "2019-06-25",
+            "surface": 20373,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/188px-Flag_of_Slovenia.svg.png",
+            "beenthere": true,
+			"children": 1
+        },		
+		{	
+            "id": 13,
+            "name": "Spain",
+            "nationalholiday": "2019-10-12",
+            "surface": 505992,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/195px-Flag_of_Spain.svg.png",
+            "beenthere": true,
+			"children": 0
+        },		
+		{	
+            "id": 14,
+            "name": "United Arab Emirates",
+            "nationalholiday": "2019-12-02",
+            "surface": 83666,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/180px-Flag_of_the_United_Arab_Emirates.svg.png",
+            "beenthere": false,
+			"children": 0
+        },		
+		{	
+            "id": 15,
+            "name": "Afghanistan",
+            "nationalholiday": "2019-08-19",
+            "surface": 652864,
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/180px-Flag_of_Afghanistan.svg.png",
+            "beenthere": false,
+			"children": 1
+        }
+    ],
+    "Presidents": [
+        {
+            "id": 1,
+            "name": "Nicolas Maduro",
+			"inofficesince": "2019-01-10",
+			"politicalparty": "United Socialistic Party Of Venezuela",
+            "countryId": 2
+        },		
+		{
+            "id": 2,
+            "name": "Juan Guiado",
+			"inofficesince": "2019-01-23",
+			"politicalparty": "Popular Vote",
+            "countryId": 2
+        },	
+		{
+            "id": 3,
+            "name": "Donald Trump",
+			"inofficesince": "2017-01-20",
+			"politicalparty": "Republican Party",
+            "countryId": 3
+        },		
+		{
+            "id": 4,
+            "name": "Frank-Walter Steinmeier",
+			"inofficesince": "2017-03-19",
+			"politicalparty": "SPD",
+            "countryId": 4
+        },		
+		{
+            "id": 5,
+            "name": "Emmanuel Macron",
+			"inofficesince": "2017-05-14",
+			"politicalparty": "Let's Go Forward",
+            "countryId": 5
+        },		
+		{
+            "id": 6,
+            "name": "Prokopis Pavlopoulos",
+			"inofficesince": "2015-03-13",
+			"politicalparty": "New Democracy",
+            "countryId": 6
+        },	
+		{
+            "id": 7,
+            "name": "Sergio Mattarella",
+			"inofficesince": "2015-02-03",
+			"politicalparty": "Democratic Party",
+            "countryId": 7
+        },		
+		{
+            "id": 8,
+            "name": "Alexander Van der Bellen",
+			"inofficesince": "2017-01-26",
+			"politicalparty": "The Green Party",
+            "countryId": 11
+        },		
+		{
+            "id": 9,
+            "name": "Borut Pahor",
+			"inofficesince": "2012-12-22",
+			"politicalparty": "SD",
+            "countryId": 12
+        },		
+		{
+            "id": 10,
+            "name": "Ashraf Ghani",
+			"inofficesince": "2014-09-29",
+			"politicalparty": "Indepedent Party",
+            "countryId": 15
+        }
+    ]
+}
