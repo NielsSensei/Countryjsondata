@@ -3,6 +3,8 @@
         {
             "id": 1,
             "name": "Belgium",
+            "capital": "Brussels",
+            "motto": "Unity makes Strength",
             "nationalholiday": "2019-07-21",
             "surface": 30528,
             "flag": "https://images.ecosia.org/rMYK9XaecJ7rz1UAGygCWP90laE=/0x390/smart/http%3A%2F%2Fwww.wpmap.org%2Fwp-content%2Fuploads%2F2015%2F12%2FBelgium-Flag-1.gif",
@@ -12,6 +14,8 @@
 		{
             "id": 2,
             "name": "Venezuela",
+            "capital": "Caracas",
+            "motto": "God and Federation",
             "nationalholiday": "2019-07-05",
             "surface": 912050,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/188px-Flag_of_Venezuela.svg.png",
@@ -21,6 +25,8 @@
 		{
             "id": 3,
             "name": "United States",
+            "capital": "Washingtong D.C.",
+            "motto": "In God We Trust",
             "nationalholiday": "2019-07-04",
             "surface": 9826675,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/195px-Flag_of_the_United_States.svg.png",
@@ -30,6 +36,8 @@
 		{	
             "id": 4,
             "name": "Germany",
+            "capital": "Berlin",
+            "motto": "Unity and Justice and Freedom",
             "nationalholiday": "2019-10-03",
             "surface": 357121,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/195px-Flag_of_Germany.svg.png",
@@ -39,6 +47,8 @@
 		{	
             "id": 5,
             "name": "France",
+            "capital": "Paris",
+            "motto": "Liberty, Equality, Fraternity",
             "nationalholiday": "2019-07-14",
             "surface": 551500,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/188px-Flag_of_France.svg.png",
@@ -48,6 +58,8 @@
 		{	
             "id": 6,
             "name": "Greece",
+            "capital": "Athens",
+            "motto": "Freedom or Death",
             "nationalholiday": "2019-03-25",
             "surface": 131957,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/188px-Flag_of_Greece.svg.png",
@@ -57,6 +69,8 @@
 		{	
             "id": 7,
             "name": "Italy",
+            "capital": "Rome",
+            "motto": "None",
             "nationalholiday": "2019-06-02",
             "surface": 301339,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/180px-Flag_of_Italy.svg.png",
@@ -66,6 +80,8 @@
 		{	
             "id": 8,
             "name": "Japan",
+            "capital": "Tokyo",
+            "motto": "None",
             "nationalholiday": "2019-05-04",
             "surface": 377930,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/180px-Flag_of_Japan.svg.png",
@@ -75,6 +91,8 @@
 		{	
             "id": 9,
             "name": "Luxembourg",
+            "capital": "Luxembourg City",
+            "motto": "We want to remain what we are",
             "nationalholiday": "2019-06-23",
             "surface": 2586,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/183px-Flag_of_Luxembourg.svg.png",
@@ -83,7 +101,9 @@
         },		
 		{	
             "id": 10,
-            "name": "The Netherlands",
+            "name": "Netherlands",
+            "capital": "Amsterdam",
+            "motto": "I will uphold",
             "nationalholiday": "2019-04-27",
             "surface": 41543,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/188px-Flag_of_the_Netherlands.svg.png",
@@ -93,6 +113,8 @@
 		{	
             "id": 11,
             "name": "Austria",
+            "capital": "Vienna",
+            "motto": "None",
             "nationalholiday": "2019-10-26",
             "surface": 83871,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/188px-Flag_of_Austria.svg.png",
@@ -102,6 +124,8 @@
 		{	
             "id": 12,
             "name": "Slovenia",
+            "capital": "Ljubljana",
+            "motto": "None",
             "nationalholiday": "2019-06-25",
             "surface": 20373,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/188px-Flag_of_Slovenia.svg.png",
@@ -111,6 +135,8 @@
 		{	
             "id": 13,
             "name": "Spain",
+            "capital": "Madrid",
+            "motto": "Further Beyond",
             "nationalholiday": "2019-10-12",
             "surface": 505992,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/195px-Flag_of_Spain.svg.png",
@@ -120,6 +146,8 @@
 		{	
             "id": 14,
             "name": "United Arab Emirates",
+            "capital": "Abu Dhabi",
+            "motto": "None",
             "nationalholiday": "2019-12-02",
             "surface": 83666,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/180px-Flag_of_the_United_Arab_Emirates.svg.png",
@@ -129,6 +157,8 @@
 		{	
             "id": 15,
             "name": "Afghanistan",
+            "capital":"Kabul",
+            "motto":"There is no God but Allah. Muhammad is the messenger of Allah.",
             "nationalholiday": "2019-08-19",
             "surface": 652864,
 			"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/180px-Flag_of_Afghanistan.svg.png",
